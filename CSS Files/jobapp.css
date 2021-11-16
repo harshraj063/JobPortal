@@ -1,0 +1,8 @@
+.job-application img
+{
+    width: 250px;
+}
+.gradient
+{
+    background-image:linear-gradient(to right,#6db9ef,#7ce08a);
+}
