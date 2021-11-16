@@ -1,0 +1,40 @@
+.banner h6
+{
+    padding: 0px 0;
+    margin-left: 540px;
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    text-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+.no-job img
+{
+    width: 15%;
+    margin-left: 580px;
+}
+.previous
+{
+    padding: 0px 0;
+    margin-left: -140px;
+    font-size: 10px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    text-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+.page-link li
+{
+    height: 25px;
+    width: 25px;
+    list-style: none;
+    display: inline-block;
+    cursor: pointer;
+}
+.page-link li:hover, .active
+{
+    color: #fff;
+    background-image: linear-gradient(to right,#6db9ef,#7ce08a);
+}
+.page-link
+{
+    margin-left: 550px;
+}
